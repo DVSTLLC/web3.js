@@ -449,3 +449,4 @@ Released with 1.0.0-beta.37 code base.
 - Change default value for `maxPriorityFeePerGas` from `1 Gwei` to `2.5 Gwei` (#4284)
 - Fixed bug in signTransaction (#4295)
 - Added missing PromiEvent handler types (#4194) 
+- Add `clientConfig` to `e2e_windows` WebSocket test (#4299)
